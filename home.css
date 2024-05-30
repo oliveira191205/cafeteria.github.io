@@ -1,0 +1,95 @@
+body{
+	background-image: linear-gradient(to right, #452A19,#99623F);
+}
+img{
+	width:250px;
+	height:150px;
+	margin: 30px 25px;
+}
+.doce:hover{
+	width:300px;
+	height:180px;
+}
+.bolachinha{
+	width:200px;
+	height:150px;
+}
+.bolachinha:hover{
+	width:250px;
+	height:180px;
+}
+.torta{
+	width: 250px;
+	height: 170px;
+}
+.torta:hover{
+	width: 300px;
+	height: 204px;
+}
+.produto{
+	width: 300px;
+	height: 300px;
+	border: 1.8px solid black;
+	font-family: Georgia;
+	font-size:16px;
+	text-align:center;
+	padding: 5px 5px;
+	margin: 10px auto;
+	margin-top:2px;
+	
+}	
+.produto:hover{
+	background-image: linear-gradient(to right, #4E2F1D,#7B4627);
+	width: 350px;
+	height: 350px;
+	font-size:18px;
+	color:white;
+	border: 2px solid white;
+}
+.produtos{
+	display:flex;
+}
+
+.link:hover{
+	background-color:white;
+	color: #7B4627 ;
+	border:1px solid white;
+}
+.link{
+	padding: 10px 10px;
+	border: 2px solid marron;
+	font-family: Georgia;
+	font-size: 15px;
+	align-items:right;
+	color:white;
+}
+.navbar{
+	margin-left:700px;
+}
+.doces{
+	background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/3567016-coffee-background-with-realistic-cup-of-coffee-vector-vetor.jpg");
+	font-family:Apple Chancery, cursive;
+	font-size:28px;
+	text-align: center;
+	color:white;
+}
+header {
+	background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/3567016-coffee-background-with-realistic-cup-of-coffee-vector-vetor.jpg");
+	font-family:Apple Chancery, cursive;
+	font-size: 36px;
+	text-align: left;
+	background-size: 100% 563px;
+}
+.capa{
+	width: 455px;
+	height: 303px;
+	margin-left:40%;
+	box-sizing: border-box;
+	border-radius: 50%; 
+	box-sizing: content-box;
+}	
+.logo{
+	margin-left: 35%;
+	color:white;
+	box-sizing: content-box;	
+}
